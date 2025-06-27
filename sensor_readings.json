@@ -1,0 +1,30 @@
+[
+  {
+    "hiveId": 1,
+    "sensorType": "temperature",
+    "sensorId": 4701,
+    "timestamp": "2023-06-01T12:30:00Z",
+    "value": 91.2
+  },
+  {
+    "hiveId": 1,
+    "sensorType": "humidity",
+    "sensorId": 4201,
+    "timestamp": "2023-06-01T12:30:00Z",
+    "value": 0.78
+  },
+  {
+    "hiveId": 1,
+    "sensorType": "weight",
+    "sensorId": "W01",
+    "timestamp": "2023-06-01T12:30:00Z",
+    "value": 45.24
+  },
+  {
+    "hiveId": 1,
+    "sensorType": "outside_temperature",
+    "sensorId": 4702,
+    "timestamp": "2023-06-01T12:30:00Z",
+    "value": 71.8
+  }
+]
